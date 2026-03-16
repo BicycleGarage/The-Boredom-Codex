@@ -1,5 +1,8 @@
 # 无聊宝典
-
+<p align="center">
+[<a href="https://github.com/BicycleGarage/The-Boredom-Codex/edit/master/README.md">English</a>]
+[<a href="https://github.com/BicycleGarage/The-Boredom-Codex/edit/master/README.zh-CN.md">简体中文</a>]
+</p>
 > *当职场怀才不遇，遇上创意摸鱼。*
 
 欢迎来到 **无聊宝典** —— 一个塞满杀时间小玩意儿的数字阁楼，全是我在公司浪费我才华的时候捣鼓出来的。
