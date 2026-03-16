@@ -38,7 +38,7 @@ This is **wasted talent** turned into **playful productivity** — a monument to
 
 All projects are static HTML/CSS/JavaScript pages.
 
-You can run them locally by opening any `index.html` file in your browser, or deploy them anywhere that serves static files (GitHub Pages, Netlify, etc.).
+You can run them locally by opening any HTML file in your browser, or deploy them anywhere that serves static files (GitHub Pages, Netlify, etc.).
 
 bash
 
