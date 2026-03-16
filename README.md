@@ -1,8 +1,10 @@
 # The Boredom Codex
+
 <p align="center">
-[<a href="https://github.com/BicycleGarage/The-Boredom-Codex/edit/master/README.md">English</a>]
-[<a href="https://github.com/BicycleGarage/The-Boredom-Codex/edit/master/README.zh-CN.md">简体中文</a>]
+[<a href="https://raw.githubusercontent.com/BicycleGarage/The-Boredom-Codex/refs/heads/master/README.md">English</a>]
+[<a href="https://raw.githubusercontent.com/BicycleGarage/The-Boredom-Codex/refs/heads/master/README.zh-CN.md">简体中文</a>]
 </p>
+
 > *Where corporate underemployment meets creative escapism.*
 
 Welcome to **The Boredom Codex** — a digital attic filled with time-killers I built while my company was busy wasting my talent.
@@ -22,12 +24,15 @@ This repository is a collection of small, pointless (but fun) web pages — each
 ## 🚀 Why does this exist?
 
 My employer pays me to be available, but not necessarily to use my brain.
+
 So I decided to reclaim my creativity, one useless project at a time.
+
 This is **wasted talent** turned into **playful productivity** — a monument to all the hours that could have been spent on something "meaningful" but ended up here instead.
 
 ## 🛠️ How to run these masterpieces
 
 All projects are static HTML/CSS/JavaScript pages.
+
 You can run them locally by opening any `index.html` file in your browser, or deploy them anywhere that serves static files (GitHub Pages, Netlify, etc.).
 
 bash
@@ -47,7 +52,14 @@ cd The-Boredom-Codex
 ## 📄 License
 
 Do whatever you want with this code. Share it, improve it, laugh at it.
+
 Just don't show it to my manager.
+
+**Just kidding about the "do whatever you want" part — this project is actually under AGPLv3.**
+
+So if you use, modify, or distribute it (even over a network), you must share your changes under the same license. Fair play, right? Consider it my contribution to the open source circle of life.
+
+That's the law of equivalent exchange, Edward.
 
 ## ☕ Final thought
 
