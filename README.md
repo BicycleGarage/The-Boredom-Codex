@@ -5,6 +5,11 @@
 [<a href="https://raw.githubusercontent.com/BicycleGarage/The-Boredom-Codex/refs/heads/master/README.zh-CN.md">简体中文</a>]
 </p>
 
+<p align="center">
+<a href="https://github.com/BicycleGarage/The-Boredom-Codex/blob/master/LICENSE"><img src="https://img.shields.io/badge/lisense-AGPLv3-blue"></a>
+<a href="https://qun.qq.com/universal-share/share?ac=1&authKey=vCk5J6ostKYHqZbHtBgEkOMABhh80308QY9yH%2FLgjkPkYy6%2BIiyRNIPHiDtEpuJn&busi_data=eyJncm91cENvZGUiOiIxMDU2NjkyMTc1IiwidG9rZW4iOiJsNmp5bW84cTZYZVhKcC85ZmhuZUpVbnJhZnVzZWlNaEU3QjNiQkdzWS9RWWRQbjRyV0Z0b2hxdTZtSUJIY0hQIiwidWluIjoiNTQyNDIyMzczIn0%3D&data=n89Rrv4Dn9A09h42-EAUjOcub7ObrZvVIf2hI0QwKAlPwTBdyHnCJKpK1UQD2kws6nCxaiFDL47VFH2cFCC9gA&svctype=4&tempid=h5_group_info"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-%2312B7F5?logo=qq&labelColor=FFFFFF"></a>
+</p>
+
 > *Where corporate underemployment meets creative escapism.*
 
 Welcome to **The Boredom Codex** — a digital attic filled with time-killers I built while my company was busy wasting my talent.
