@@ -1,5 +1,8 @@
 # The Boredom Codex
-
+<p align="center">
+[<a href="https://github.com/BicycleGarage/The-Boredom-Codex/edit/master/README.md">English</a>]
+[<a href="https://github.com/BicycleGarage/The-Boredom-Codex/edit/master/README.zh-CN.md">简体中文</a>]
+</p>
 > *Where corporate underemployment meets creative escapism.*
 
 Welcome to **The Boredom Codex** — a digital attic filled with time-killers I built while my company was busy wasting my talent.
