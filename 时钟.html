@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>时钟</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 思源宋体 CN Heavy,serif;
+            color: #fff;
+            min-height: 100vh;
+            background-color: transparent;
+            overflow: hidden;
+        }
+
+        .clock-display {
+            position: fixed;
+            top: 10px;
+            left: 10px;
+            font-size: 3rem;
+            font-weight: bold;
+            background-color: transparent;
+        }
+    </style>
+</head>
+<body>
+    <div class="clock-display" id="clockDisplay">00:00:00</div>
+
+    <script>
+        const clockDisplay = document.getElementById('clockDisplay');
+
+        function formatTime(date) {
+            const hours = String(date.getHours()).padStart(2, '0');
+            const minutes = String(date.getMinutes()).padStart(2, '0');
+            const seconds = String(date.getSeconds()).padStart(2, '0');
+            return `${hours}:${minutes}:${seconds}`;
+        }
+
+        function updateClock() {
+            const currentTime = new Date();
+            clockDisplay.textContent = formatTime(currentTime);
+        }
+
+        // 启动时钟
+        updateClock();
+        setInterval(updateClock, 1000);
+    </script>
+</body>
+</html>
